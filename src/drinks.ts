@@ -1,4 +1,4 @@
-const drinks: string[] = [
+export const drinks: string[] = [
 
 "Coca Cola",
 "Dr.Pepper",

@@ -10,4 +10,7 @@ describe("snacks", () => {
     expect(snacks).toContain("chips");
   });
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95c532a3444290818cf74f9b4f7c130a5221cbf3
